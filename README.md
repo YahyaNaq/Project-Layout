@@ -2,5 +2,5 @@
 A responsive page you can use to make your next project with the customization you want!
 Check out [now!](https://yahyanaq.github.io/Project-Layout/)
 
-## A View
+## A Demo
 ![Demo Doccou alpha](https://github.com/YahyaNaq/Project-Layout/blob/main/screen-capture%20(3)%20(1).gif)
